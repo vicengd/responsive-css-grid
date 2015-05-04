@@ -32,6 +32,16 @@
   padding: 5px;
 }
 
+.container {
+  padding: 0 2em 0 2em;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 /*Media Queries*/
 @media (max-width: 768px) {
   .small-1 {width: 8.333%;}
